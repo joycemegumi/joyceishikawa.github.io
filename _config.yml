@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Joyce Megumi Ishikawa # your name (or website title) here
+logo: "/images/headshot.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist with 2+ years of media analytics and buying and a master's degree in Applied Analytics from Columbia University. Previously at Topolo (IoT Tech Startup), VaynerMedia (Client: American Eagle) and SteinIAS (Clients: ABB, ETS, TetraPak, LabCorp).
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/joyce-megumi-ishikawa-5a335397/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
