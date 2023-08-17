@@ -13,12 +13,6 @@ A one-way analysis of variance test with the Tukey’s Honest Significant Differ
 [View Project](https://joycemegumi.github.io/joycemegumi-working.github.io/research-design-project)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
