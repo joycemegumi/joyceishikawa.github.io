@@ -1,5 +1,13 @@
-## Portfolio of Projects
+---
+layout: default
+video_urls:
+  - urls: https://drive.google.com/file/d/1j-7PhCzYfYL_7CsgHLx9cOJ4CKH48LPV/view?usp=drive_link
+    title: Generating New Video
+  - url: https://drive.google.com/file/d/1koYOE1YChcB3TVB1zIJ-UeXN2sHy51SR/view?usp=drive_link
+    title: Generate an Existing Video
+---
 
+## Portfolio of Projects
 ---
 
 ### Designing an Experimental Study on Customer Engagement on Instagram Shop
@@ -26,4 +34,29 @@ By utilizing the NYC Open Data API, PostgreSQL, Apache Spark, and Flask, we've c
 ![NY Crime Flask App](images/ny-crime-demo.gif)
 [View the Code on GitHub](https://github.com/joycemegumi/Managing-Data-Project)
 
+### Automating Content Creation with a Serverless Architecture
+#### Transforming a 2 Million+ Companies Dataset into Dynamic Video Presentations
+![AWS VPC Badge](https://img.shields.io/badge/-VPC-232F3E?logo=amazon-aws&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/-Lambda-FF9900?logo=amazon-aws&logoColor=white) ![S3 Badge](https://img.shields.io/badge/-S3-569A31?logo=amazon-aws&logoColor=white) ![RDS Badge](https://img.shields.io/badge/-RDS-FF7F50?logo=amazon-aws&logoColor=white) ![API Gateway Badge](https://img.shields.io/badge/-API%20Gateway-FF9900?logo=amazon-aws&logoColor=white) ![CloudFront Badge](https://img.shields.io/badge/-CloudFront-232F3E?logo=amazon-aws&logoColor=white)
 
+Manual content creation involves extensive time and effort by video editors that need to search for video assets, apply copy, styling etc. This process can be time-consuming and may lead to delays in delivering timely content to customers, potentially missing valuable opportunities.
+
+In this project my team built a company video generator web application based on companies datasets from Kaggle. This cutting-edge platform will allow users to effortlessly generate videos by simply selecting their company name and desired theme by leveraging the integration of the [JSON2Video API](https://json2video.com/) and [Pexel API](https://www.pexels.com/api/).
+
+<img src="images/comapny-video-generator-architecture.jpeg"/>
+
+
+Benefits :
+* Cost and time efficiency in content creation.
+* Enabling non-technical users to create videos.
+
+{% for video in page.video_urls %}
+#### {{ video.title }}
+
+<iframe width="560" height="315" src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
+{% endfor %}
+
+[View the Web Application](https://frontendcodegroup2.s3.amazonaws.com/videogenerator.html)
+
+[View the presentation on Canva](https://www.canva.com/design/DAFr0hoDX14/3IRODlYJekxRvXHBT6kVJA/view?utm_content=DAFr0hoDX14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[View the project on GitHub]()
