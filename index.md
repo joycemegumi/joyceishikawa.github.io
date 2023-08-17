@@ -1,9 +1,9 @@
 ---
 layout: default
 video_urls:
-  - url: https://github.com/joycemegumi/Comapny-Video-Generator/blob/master/Demo/generate-new-video.mp4
+  - url: https://youtu.be/qe13jgi8Dv4
     title: Generating New Video
-  - url: https://github.com/joycemegumi/Comapny-Video-Generator/raw/master/Demo/existing-video.mp4
+  - url: https://youtu.be/1GhVirfRe0Q
     title: Generate an Existing Video
 ---
 
