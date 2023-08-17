@@ -10,7 +10,7 @@ A one-way analysis of variance test with the Tukey’s Honest Significant Differ
 
 <img src="images/simulations results.png"/>
 
-[View Project](https://joycemegumi.github.io/joycemegumi-working.github.io/research-design-project)
+[View Project](https://joycemegumi.github.io/research-design-project)
 
 ---
 
