@@ -3,6 +3,8 @@
 ---
 
 ### Designing an Experimental Study on Customer Engagement on Instagram Shop
+![R Badge](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![pwr Badge](https://img.shields.io/badge/-pwr-276DC3?logo=r&logoColor=white) ![dplyr Badge](https://img.shields.io/badge/-dplyr-276DC3?logo=r&logoColor=white) ![agricolae Badge](https://img.shields.io/badge/-agricolae-276DC3?logo=r&logoColor=white) ![data.table Badge](https://img.shields.io/badge/-data.table-276DC3?logo=r&logoColor=white) 
+
 Instagram has helped businesses and entrepreneurs build their digital storefronts through its shopping feature and has allowed users to shop easily. In this project, my team sought to learn what type of features increase users' average daily session time on Instagram’s shop feed by designing a hypotehtical experiment and conducting simulated studies. The attributes studied were exposure to product categorization, creator product curation, and price and description in the feed. 
 <img src="images/treatments.jpeg"/>
 
@@ -15,11 +17,13 @@ A one-way analysis of variance test with the Tukey’s Honest Significant Differ
 ---
 ### Optimizing NYPD Resource Allocation
 #### Unveiling Insights Through an ETL Pipeline with NYC Open Data API, PostgreSQL, Apache Spark, and Flask
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Flask Badge](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-In response to the surge in major crime rates in NYC, our team developed a web application tool aimed at mitigating this issue. We designed and implemented a robust ETL pipeline to curate essential data, which served as the foundation for developing a web application tailored for NYPD officials. This dynamic tool not only identifies precincts with elevated crime rates, but also highlights those with a disproportionate incidence of major crimes. By utilizing the NYC Open Data API, PostgreSQL, Apache Spark, and Flask, we've created a powerful solution empowering officials to strategically allocate NYPD resources, ultimately fostering informed decision-making for safer communities.
+In response to the surge in major crime rates in NYC, our team developed a web application tool aimed at mitigating this issue. We designed and implemented a robust ETL pipeline to curate essential data, which served as the foundation for developing a web application tailored for NYPD officials. This dynamic tool not only identifies precincts with elevated crime rates, but also highlights those with a disproportionate incidence of major crimes. 
+
+By utilizing the NYC Open Data API, PostgreSQL, Apache Spark, and Flask, we've created a powerful solution empowering officials to strategically allocate NYPD resources, ultimately fostering informed decision-making for safer communities.
 
 ![NY Crime Flask App](images/ny-crime-demo.gif)
-
 [View the Code on GitHub](https://github.com/joycemegumi/Managing-Data-Project)
 
 
