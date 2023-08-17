@@ -1,6 +1,8 @@
 # Designing an Experimental Study on Customer Engagement on Instagram Shop
 **Authors:**  Joyce Ishikawa, Maria Pilar Bifaretti, <br> Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
 
+[Link to GitHub project](https://github.com/joycemegumi/Research-Design-Final-Project)
+
 ## Part 1:  Research Proposal
 
 ### Executive Summary / Abstract
