@@ -1,11 +1,16 @@
-## Portfolio
+## Portfolio of Projects
 
 ---
 
-### Category Name 1 
+### Designing an Experimental Study on Customer Engagement on Instagram Shop
+Instagram has helped businesses and entrepreneurs build their digital storefronts through its shopping feature and has allowed users to shop easily. In this project, my team sought to learn what type of features increase users' average daily session time on Instagram’s shop feed by designing a hypotehtical experiment and conducting simulated studies. The attributes studied were exposure to product categorization, creator product curation, and price and description in the feed. 
+<img src="images/igshop-rd/treatments.jpeg"/>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A one-way analysis of variance test with the Tukey’s Honest Significant Difference (HSD) correction was conducted to evaluate the effect of each treatment group in comparison to the control group to review if a significant effect size was present.
+
+<img src="images/igshop-rd/simulations results.png"/>
+
+[View Project](https://joycemegumi.github.io/Research-Design-Final-Project/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -15,21 +20,7 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
