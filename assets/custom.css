@@ -1,3 +1,6 @@
+h1 a {
+    color: #c79288
+}
 section a {
     overflow-wrap: break-word;
 }
@@ -6,6 +9,3 @@ section {
     width: 38vw;
 }
 
-h1 a {
-    color: #c79288
-}
