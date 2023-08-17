@@ -1,10 +1,5 @@
 ---
 layout: default
-video_urls:
-  - url: https://www.youtube.com/embed/qe13jgi8Dv4
-    title: Generating New Video
-  - url: https://www.youtube.com/embed/1GhVirfRe0Q
-    title: Generate an Existing Video
 ---
 
 ## Portfolio of Projects
@@ -44,16 +39,17 @@ In this project my team built a company video generator web application based on
 
 <img src="images/comapny-video-generator-architecture.jpeg"/>
 
-
 Benefits :
 * Cost and time efficiency in content creation.
 * Enabling non-technical users to create videos.
 
-{% for video in page.video_urls %}
-#### {{ video.title }}
+#### Generating New Video
 
-<iframe width="560" height="315" src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
-{% endfor %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qe13jgi8Dv4" frameborder="0" allowfullscreen></iframe>
+
+#### Generate an Existing Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GhVirfRe0Q" frameborder="0" allowfullscreen></iframe>
 
 [View the Web Application](https://frontendcodegroup2.s3.amazonaws.com/videogenerator.html)
 
