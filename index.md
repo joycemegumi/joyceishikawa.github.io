@@ -1,7 +1,7 @@
 ---
 layout: default
 video_urls:
-  - urls: https://drive.google.com/file/d/1j-7PhCzYfYL_7CsgHLx9cOJ4CKH48LPV/view?usp=drive_link
+  - url: https://drive.google.com/file/d/1j-7PhCzYfYL_7CsgHLx9cOJ4CKH48LPV/view?usp=drive_link
     title: Generating New Video
   - url: https://drive.google.com/file/d/1koYOE1YChcB3TVB1zIJ-UeXN2sHy51SR/view?usp=drive_link
     title: Generate an Existing Video
@@ -59,4 +59,4 @@ Benefits :
 
 [View the presentation on Canva](https://www.canva.com/design/DAFr0hoDX14/3IRODlYJekxRvXHBT6kVJA/view?utm_content=DAFr0hoDX14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[View the project on GitHub]()
+[View the project on GitHub](https://github.com/joycemegumi/Comapny-Video-Generator)

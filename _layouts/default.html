@@ -39,14 +39,16 @@
       <section>
 
         {{ content }}
-  
-        {% if page.video_urls %}
-        {% for video_url in page.video_urls %}
-          <iframe width="560" height="315" src="{{ video_url }}" frameborder="0" allowfullscreen></iframe>
-        {% endfor %}
-      {% endif %}
 
-    </section>
+          {% if page.video_urls %}
+          {% for video in page.video_urls %}
+          #### {{ video.title }}
+
+          <iframe width="560" height="315" src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
+          {% endfor %}
+          {% endif %}
+
+</section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
