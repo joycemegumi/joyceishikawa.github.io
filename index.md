@@ -29,7 +29,7 @@ By utilizing the NYC Open Data API, PostgreSQL, Apache Spark, and Flask, we've c
 ![NY Crime Flask App](images/ny-crime-demo.gif)
 [View the Code on GitHub](https://github.com/joycemegumi/Managing-Data-Project)
 
-### Automating Content Creation with a Serverless Architecture
+### Automating Content Creation with a AWS Serverless Architecture
 #### Transforming a 2 Million+ Companies Dataset into Dynamic Video Presentations
 ![AWS VPC Badge](https://img.shields.io/badge/-VPC-232F3E?logo=amazon-aws&logoColor=white) ![Lambda Badge](https://img.shields.io/badge/-Lambda-FF9900?logo=amazon-aws&logoColor=white) ![S3 Badge](https://img.shields.io/badge/-S3-569A31?logo=amazon-aws&logoColor=white) ![RDS Badge](https://img.shields.io/badge/-RDS-FF7F50?logo=amazon-aws&logoColor=white) ![API Gateway Badge](https://img.shields.io/badge/-API%20Gateway-FF9900?logo=amazon-aws&logoColor=white) ![CloudFront Badge](https://img.shields.io/badge/-CloudFront-232F3E?logo=amazon-aws&logoColor=white)
 
