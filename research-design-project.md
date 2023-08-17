@@ -131,7 +131,7 @@ After the experiment, we will compare the daily average session time of each tre
 #### Brief Schedule
 <center>
 Graph 1: Brief Schedule of the Research Experiment
-<img src="Brief-Schedule.png"/>
+<img src="images/Brief-Schedule.png"/>
 </center>
 The whole study will last for about five weeks. The experiment will start on February 1st and end the study on March 8th. To avoid seasonal effects (eg. Thanksgiving and Christmans) on Instagram users’ shopping behavior, the experiment will run from February 15 to March 1.  <br>
 
@@ -162,7 +162,7 @@ In the treatment 2 group, the users will be exposed to a Shop feed with a featur
 In the treatment 3 group, the users will be exposed to a Shop feed with a feature that displays the price and description of a product for every product shown in the feed as seen in figure 3. The treatment is administered to the subject’s Instagram account on their Shop feed the moment the experiment is started simultaneously with the control and other treatment groups. We hypothesize that the presence of price and description will allow more transparency for users that are price sensitive and increase their average daily session time. According to Yahia, Al-Neama & Kerbache (2018), most potential customers who wish to buy products through the Instagram shop are usually more sensitive to the price of the products and their description than their relevance. 
 
 <center>
-<img src="treatments.jpeg"/>
+<img src="images/treatments.jpeg"/>
 </center>
 
 
@@ -402,7 +402,7 @@ results %>%
  
 <center>
 Table 1: Simulated Results
-<img src="simulations%20results.png"/>
+<img src="images/simulations%20results.png"/>
 </center>
 
 ## References
