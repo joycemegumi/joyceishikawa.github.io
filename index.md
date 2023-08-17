@@ -1,9 +1,9 @@
 ---
 layout: default
 video_urls:
-  - url: https://youtu.be/qe13jgi8Dv4
+  - url: https://www.youtube.com/embed/qe13jgi8Dv4
     title: Generating New Video
-  - url: https://youtu.be/1GhVirfRe0Q
+  - url: https://www.youtube.com/embed/1GhVirfRe0Q
     title: Generate an Existing Video
 ---
 
