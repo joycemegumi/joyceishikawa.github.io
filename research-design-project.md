@@ -16,7 +16,7 @@ A one-way analysis of variance test with the Tukey’s Honest Significant Differ
 * If the users' average daily session time increases by at least 20% by having a feature that curates products based on creator’s recommendations, Instagram should develop the proposed feature. 
 * If the users' average daily session time increases by 20% or more by clearly displaying the price and description of each product in the feed, Instagram should consider implementing the feature. 
 
-**Authors**: Maria Bifaretti 100%
+
 
 ### Statement of the Problem
 The presence of social networks has revolutionized and stimulated e-commerce (Singh & Singh, 2018). Consequently, it has given life to a new form of buying and selling - social commerce. Social commerce is a form of online trade that uses social networks as a sales channel (Zhou, Zhang, & Zimmermann, 2013). It is a model that allows consumers to complete their entire shopping experience in a single place, from product discovery to purchase. As a result, this presents significant opportunities for large companies, small brands, and individuals. For the social platforms themselves, it is a new source of revenue and a way to increase engagement with their users. 
@@ -26,7 +26,7 @@ In the United States, the social commerce market was valued at 36.09 billion dol
 <br>
 This paper seeks to research if implementing specific features improves Instagram’s in-app shopping experience by increasing the average daily session time within the feed . A deep understanding of the best characteristics of social commerce can increase users’ interest and the value for the company and its stakeholders.  
 <br>
- **Authors**: Maria Bifaretti 100%
+ 
 
 
 
@@ -60,7 +60,7 @@ Mathematical notation: 𝜇 > 46 seconds
 
 The mean of the control variable of 46 seconds was derived from industry benchmarks for average time on page for the health and beauty (45 seconds) and fashion (47 seconds) industry (Contentsquare, 2022). These specific industry benchmarks were chosen because the top five industries using Instagram include fashion and health and beauty (Pixlee TurnTo, 2022). We will use a 20% increase in average daily session time as the minimum effect size for each independent variable. We believe a 20% increase in the session time is a meaningful effect because the difference in the mean of health, beauty, and fashion (46 seconds) and the mean of the time on page for all industries (55 seconds) is approximately 20% greater. In addition, a 20% effect size translates to an additional 9 seconds spent on the feed which reflects a greater engagement of the user. Therefore this effect size emphasizes the necessity of the feature to be incorporated into the Shop feed to improve customer engagement and conversions.  
 
-**Authors**: Joyce Ishikawa 100%
+
 
 
 ### Importance of the Study and Social Impact
@@ -76,7 +76,7 @@ For the users that do not know about the feature or that have not yet purchased 
 **Businesses/Influencers**  <br>
 With improvement in the Instagram Shop feed, customers will become more interested in buying products and services, which increases businesses' sales and revenue and benefits influencers' commissions. Thus, businesses and influencers will tend to shift all their shopping platforms to Instagram Shop and invest more, which eventually expands Instagram e-commerce.  
 <br>
-**Authors**: Jingyi Li 50%, Chi Lee 50%
+
 
 ### Literature Review
 Social media has grown substantially over the last few years and created new opportunities for companies to make more money. According to the United States Census (2020), e-commerce sales increased by $244.2 billion dollars in 2020. As COVID-19 spread and was officially declared a pandemic by the WHO, people started shifting their shopping habits online, and online sales increased by 32.4% compared to the previous year (Gokila, 2021). Traditional retail companies such as Best Buy and Target grew by over 100% in e-commerce sales during the pandemic (Gokila, 2021). 
@@ -100,17 +100,17 @@ Back to our research, customers tend to spend more time on Instagram Shop, offer
 
 **Price and Description**<br>
 Various researchers have explored how price and description affect customers' interest in Instagram feed. For instance, Yahia, Al-Neama & Kerbache (2018) argue that most potential customers who wish to buy products through the Instagram shop are usually more sensitive to the price of the products and their description than their relevance. Shoppers examine competing brands. Before making even the simplest purchase, people probably make an unconscious list of product descriptions and price tags (Weeks, Smith & Hulland, 2021). The previous finding means that when potential customers are viewing products through the Instagram feed, they tend to focus more on products with price tags within the reference price in their minds. All goods have an obvious alternative, although some are more apparent than others. There will be more price sensitivity if potential buyers can quickly and easily evaluate their goods compared to competing options. For example, it is easier to directly compare identical products with different brands when price and description are given as reference points.  <br>
-**Authors**: Jingyi Li 50%, Chi Lee 50% 
+
 
 
 ### Research Plan
 
-**Authors**: Yancheng Yu 50%, Mai Michelle 50%
+
 
 
 #### Population of Interest<br>
 Mainly, users located in some countries in North America, Latin America, Europe, the Middle East, Africa, and  Asia-Pacific (Instagram, 2022) are now eligible for shopping on Instagram. To be specific and generalized, the population of interest in our research study will be Instagram users in the United States aged between 18 to 57 who have used the Instagram shop feed in the past six months. There will be 280 respondents selected as our sample size, and this sample size is calculated in the sample size and statistical power section. According to Osman (2022), Millennials (26 to 41) and Gen Xers (42 to 57) are the age groups that contributed the most to eCommerce. Users aged between 18 to 25 are included because Gen Zers will soon become the next main eCommerce consumption force. Sample selection will be made based on age and region filled on user profiles. Users who did not use the Instagram shop feed in the past half year are excluded because this user group will not reflect shopping experience improvement. They will not notice the updated features as they did not use the feed previously.  <br>
-**Authors**: Yancheng Yu 50%, Mai Michelle 50% <br>
+
 
 #### Sample Selection<br>
 Firstly, the users would be randomly assigned to 4 groups (1 control and 3 treatments), with 70 users in each group. The first group is the control group, and there will be no additional upgrades to the control group users’ Instagram shopping feeds. The second group is the categorization group (treatment group #1), and there will be an update on presenting product categorization for users to filter based on interested merchandise categorization. The third group is the creator product curation group (treatment group #2). Users in the curation group will see creator product curation based on the accounts they follow. The last group is the price and description group (treatment group #3), where users will see the product price and brief product description under the product image.  <br>
@@ -118,7 +118,7 @@ Firstly, the users would be randomly assigned to 4 groups (1 control and 3 treat
 When excluding users who did not use the shopping feed on Instagram, our possible population reduces. The excluded users can be analyzed in the future to see whether certain feature updates will attract users to start using the shopping feed.  <br>
 
 Subjects are randomly assigned into different groups because a random experiment is the most robust design to mitigate the effects of confounding variables and to determine the causal relationship between independent variables and the dependent variable. By random sampling, we can ensure each group has similar user demographics. Both measured (average user session time) and unmeasured (potential confounding) variables in the control and treatment group will be balanced. This approach is feasible in our study because we are collaborating with Instagram, and we have access to anonymous user data to conduct the random experiment. Selected users will not find any difference until the date for the application update.   <br>
-**Authors**: Yancheng Yu 50%, Mai Michelle 50% <br>
+
 
 #### Operational Procedures
 There is no additional instruction or training required for our participants. While collaborating with Instagram, we are conducting a single-blind study that participants who do not know which study group they belong to. If we were to recruit participants and tell them which study group they are assigned to, they could unconsciously vary their normal behavior and hence affect our study result. We want to eliminate the effect of participant bias by not informing participants in the study of anything related to our research topic. We only collected user information for the random assignment of the study, and all information will be anonymously collected.  <br>
@@ -126,7 +126,7 @@ There is no additional instruction or training required for our participants. Wh
 The Instagram application will be updated simultaneously for all four groups on the experiment start date and will last for two weeks. The user’s average daily session time in seconds on the Instagram shopping feed will be measured and recorded throughout the two weeks.  <br>
 
 After the experiment, we will compare the daily average session time of each treatment group to the daily average session time of the control group separately to see if there is any significant improvement in the users’ session time on the updated shopping feed. We will perform an Analysis of Variance (ANOVA) test to compare the mean outcomes for the four subgroups and use the Tukey’s Honest Significant Difference (HSD) Method to make pairwise comparisons. From the comparisons, we will either reject or fail to reject the null hypothesis. We will use a 20% increase in session time as the minimum effect size. Because a 20% increase in average daily session time from the original shopping feed features is equivalent to around 9 seconds. The greater the average daily session time represents, the more engagement the user has. Thus a nine seconds increase in average session time can reflect the necessity of each feature update.  <br>
-**Authors**: Yancheng Yu 50%, Mai Michelle 50% <br>
+
 
 #### Brief Schedule
 <center>
@@ -135,21 +135,21 @@ Graph 1: Brief Schedule of the Research Experiment
 </center>
 The whole study will last for about five weeks. The experiment will start on February 1st and end the study on March 8th. To avoid seasonal effects (eg. Thanksgiving and Christmans) on Instagram users’ shopping behavior, the experiment will run from February 15 to March 1.  <br>
 
-**Authors**: Yancheng Yu 100% <br>
+
 
 #### Data Collection<br>
 The experiment will collaborate with Instagram where they will provide anonymized user data and upgrade several shopping interfaces for targeted users in their shopping feed to conduct the research. To collect the data we will collaborate with the product analysts at Instagram to measure the dependent variable for this feature testing. The dependent variable we are setting up is the daily average session time in seconds for the Shop feed for both treatment and the control groups. The data collection will be automated as a program set up by the engineers at Instagram when they begin the experiment of the feature testing. The program will log the session time in seconds when the user begins a session when they enter the Shop feed and ends a session after there is no activity after 10 minutes. 
 
 The average daily session time is recorded by taking the total session time in seconds in a day divided by the total number of sessions in a day and is logged in the database as an observation. Each of these events will be logged by group name which includes control, treatment 1, treatment 2, and treatment 3. The results and conclusions of this study will be provided to Instagram to aid in deciding which feature to release.  <br>
-**Authors**: Joyce Ishikawa 100%  <br>
+
 
 #### Data Security<br>
 The data would be provided by Instagram and user information will remain anonymous. The experiment only uses the following information to filter the qualified population: age, region, shopping history within the Instagram app, and time spent on the Shop feed. The experiment will not collect personal information such as names, addresses, and phone numbers. Only members of the research group are allowed to access the data collected. All data collected will not be used in other research/for other purposes. The result of this research will be provided to Instagram for further decision-making.  <br>
-**Authors**: Michelle Mai 100%  <br>
+
 
 #### Outcomes (Dependent Variables)<br>
 The dependent variable of this study is the average daily session time of Instagram app users exposed to the Shop feed. This will be measured by recording each user’s session time in seconds every day. A session is started when a user is on the Shop feed and is actively engaging with the page. The session is ended when 10 minutes of inactivity is detected in a user. The average daily session time is calculated by dividing the total session time in seconds of a day by the total number of sessions for that day for each user. The names of the corresponding treatment groups will be recorded for each observation.  <br>
-**Authors**: Jingyi Li 100%  <br>
+
 
 ### Treatments (Independent Variables)
 **Product Categorization:**<br>
@@ -165,17 +165,17 @@ In the treatment 3 group, the users will be exposed to a Shop feed with a featur
 <img src="treatments.jpeg"/>
 </center>
 
-**Authors**: Joyce Ishikawa 100% <br>
+
 
 ### Other Variables
 Participants’ gender, age, and demographic information should be recorded during the experiment because the nature of shopping habits from different groups would be different. Participants’ amount of time and day spent on the shopping feed should also be recorded for further studies and analysis. The conversion rate because of the feature change should also be recorded to check for results that might help the company to decide whether to do further research or implement immediately on the app to increase revenue stream.  <br>
-**Authors**: Chi Lee 100% <br>
+
 
 ### Statistical Analysis Plan  
 The dependent variable of our study is the user's average daily session time on Instagram's shopping feed, and it is a continuous random variable. There are four levels of shopping feed feature updates, an ANOVA test will be performed to compare the means. The shopping feed updating feature is the only categorical independent variable, thus we will perform a one-way ANOVA. Assumptions of ANOVA test are satisfied because each collected session time is independent and identically distributed random variables. The variance of average daily session time is homoscedastic in each subgroup. We also assume the errors of the model have a normal distribution in R. 
 
 To adjust p-values while making pairwise comparisons, we will use Tukey’s HSD Method in R. This method allows us to test all pairwise differences while controlling the probability of making a Type I error. It is one of several tests designed for this purpose and fully controls this Type I error rate. The null hypotheses will be either rejected or failed to be rejected depending on the resulting p-values.  <br>
-**Authors**: Yancheng Yu 50%, Jingyi Li 50% <br>
+
 
 ### Sample Size and Statistical Power
 As mentioned previously, an analysis of variance will analyze the results of each treatment group and the control group on the dependent variable (seconds spent on IG Shopping Feed). A power of 0.80 was selected as this will give us a 20% probability of falsely accepting the null hypothesis. A significance level of 0.05, meaning that there is a 5% probability or less of the research results being due to chance. Moreover, an effect size of 0.2 was used as, according to Cohen’s rules of thumb, it is considered a medium effect. The previous parameters were selected according to what is most accepted by the research community (Serdar, Cihan, Yücel, & Serdar, 2020).
@@ -190,7 +190,7 @@ n <- sample$n; n #[1] 69.12569
 N <- 70*4 #Total sample size for four groups 280
 ```
 
-**Authors**: Maria Pilar Bifaretti 100%  <br>
+
 
 ### Possible Recommendations
 The following recommendations would be made to Instagram’s executives depending on each scenario:  <br>
@@ -203,15 +203,15 @@ If the null hypothesis is accepted (there was no change between the control and 
 
 **Research Question 3: Price & Description**
 If the null hypothesis is accepted  (there was no change between the control and treatment group), we would advise realizing a feature that visualized the price and description of each item. Since the time spent on the feed was similar in both groups, developing the feature would require resources for no actual change in users' behaviors. Moreover, if the null hypothesis is rejected (there was a significant and meaningful change between the control and treatment group), then we would advise the company to include the price and description of each of the items offered, as it would increase the time users spent on the Shopping feed.  <br>
-**Authors**: Maria Pilar Bifaretti 100%  <br>
+
 
 ### Limitations and Uncertainties
 This study has several limitations concerning authenticity. First, since our participants are chosen randomly and it's hard to check on their real identities, there might be users who gave wrong personal information or something that might not be 100% real compared to their real identities. Moreover, some of our users might be unqualified shopping users because they might click on the shop feature accidentally rather than intentionally. These kinds of users are not the users that we try to target but rather try to avoid. However, the experiments were done in private and the responses were anonymous and respondents had little incentive to please the researcher, thus the result might not be significantly affected by the potential fake information.  <br>
 Furthermore, the experiment would be more precise and accurate if the duration of the experiment was longer, however due to the ever-changing nature of social media, the timeline has to be compact in order to adapt to the real-world situation quickly. Lastly, the experiments do not measure the interactions between the independent variables, and the variables might affect each other accordingly, but these interactions might be realized in later studies for the future.  <br>
-**Authors**: Chi Lee 100% <br>
+
 
 ## Part 2:  Simulated Studies
-**Authors**: Joyce Ishikawa 50%, Jingyi  50%  <br>
+
 
 Based on the 1,000 simulations of experiments conducted, each research question in scenarios with an effect and no effect resulted in a 50% accuracy and 50% precision rate and the following conclusions were made.  <br>
 
@@ -224,12 +224,12 @@ Thus, we are not able to make conclusions and recommendations of not releasing t
 In the scenario of an expected effect, 82.3% of True Positive rate was observed in the three research questions with a high proportion of significant p-values. This resulted in a mean effect size 9.01, 9.11, and 8.99 seconds respective to each research question. This indicates an improvement in users' average daily session time and a ~20% effect size detected when product categorization, creator product curation, and price and description features are present in the Shop feed. However, we observed a high False Positive rate of 82.3%, resulting in a Type I error, indicating that there was a large proportion of experiments that falsely claimed that there is a statistically significant difference between the control and corresponding treatment groups. 
 
 Due to the high rates of Type I errors, we are not able to  make conclusions and recommendations of releasing the three features as a change in strategy as the experiments had unreliable results. Instead the design of the experiment should be reassessed to improve the overall accuracy by reducing Type I errors.  <br>
-**Authors**: Joyce Ishikawa 50%, Jingyi  50%  <br>
+
 
 ### Research Question 1-3
 #### Scenario 1:  No Effect
 
-**Authors**: Joyce Ishikawa 100%
+
 
 
 ##### Simulation
@@ -316,9 +316,6 @@ results %>%
 
 ### Research Question 1-3 ###
 #### Scenario 2:  An Expected Effect
-
-**Authors**: Joyce Ishikawa 100%
-
 
 ##### Simulation
 A simulation of 1,000 experiments of the one factor ANOVA test with Tukey’s HSD correction were conducted in the scenario of no effect. The following assumptions were made to create the simulated data: A sample size of 280, with each group resulting in a sample size of 70. The standard deviation of 15 was assumed along with a control mean of 45 seconds and treatment mean with effect of 55 seconds. The treatment mean with effect was estimated based on a 20% expected increase from the control mean. For each research question the same treatment mean was applied as according to the 20% effect size that was deemed to be meaningful. The table of simulated results are shown in Table 1.  <br>
@@ -456,12 +453,4 @@ Weeks, J. B., Smith, K. M., & Hulland, J. (2021). Consumer brand curation on soc
 Yahia, I. B., Al-Neama, N., & Kerbache, L. (2018). Investigating the drivers for social commerce in social media platforms: Importance of trust, social support, and the platform perceived usage. Retrieved from Journal of Retailing and Consumer Services, 41, 11-19:
 [https://www.sciencedirect.com/science/article/abs/pii/S0969698917301315?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0969698917301315?via%3Dihub)
 
-Zhou, L. Z., Zhang, P., & Zimmermann, H.-D. Z. (2013). Social commerce research: An integrated view . ScienceDirect, 61-68. [https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A](https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A)  
- <br>
-**Authors**:  <br>
-Chi Lee 16.7%,  <br>
-Jingyi Li 16.7%,  <br>
-Joyce Ishikawa 16.7%,  <br>
-Michelle Mai 16.7%,  <br>
-Maria Pilar Bifaretti 16.7%,  <br>
-Yancheng Yu 16.7%
+Zhou, L. Z., Zhang, P., & Zimmermann, H.-D. Z. (2013). Social commerce research: An integrated view . ScienceDirect, 61-68. [https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A](https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A)
