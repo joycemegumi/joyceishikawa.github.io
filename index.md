@@ -8,7 +8,7 @@ layout: default
 ### Designing an Experimental Study on Customer Engagement on Instagram Shop
 ![R Badge](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![pwr Badge](https://img.shields.io/badge/-pwr-276DC3?logo=r&logoColor=white) ![dplyr Badge](https://img.shields.io/badge/-dplyr-276DC3?logo=r&logoColor=white) ![agricolae Badge](https://img.shields.io/badge/-agricolae-276DC3?logo=r&logoColor=white) ![data.table Badge](https://img.shields.io/badge/-data.table-276DC3?logo=r&logoColor=white) 
 
-Instagram has helped businesses and entrepreneurs build their digital storefronts through its shopping feature and has allowed users to shop easily. In this project, my team sought to learn what type of features increase users' average daily session time on Instagram’s shop feed by designing a hypotehtical experiment and conducting simulated studies. The attributes studied were exposure to product categorization, creator product curation, and price and description in the feed. 
+Instagram has helped businesses and entrepreneurs build their digital storefronts through its shopping feature and has allowed users to shop easily. In this project, my team sought to learn what type of features increase users' average daily session time on Instagram’s shop feed by designing a hypothetical experiment and conducting simulated studies. The attributes studied were exposure to product categorization, creator product curation, and price and description in the feed. 
 <img src="images/treatments.jpeg"/>
 
 A one-way analysis of variance test with the Tukey’s Honest Significant Difference (HSD) correction was conducted to evaluate the effect of each treatment group in comparison to the control group to review if a significant effect size was present.
