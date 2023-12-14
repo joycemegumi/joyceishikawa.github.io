@@ -14,11 +14,13 @@ The overarching objective is to empower the US government in the pursuit of redu
 
 The project caters to distinct audiences:
 
-Analytical Audience: This group possesses the skills to directly access and query the normalized dataset. They can delve into the intricacies of the data to derive specific insights that inform targeted interventions.
+1. Analytical Audience: This group possesses the skills to directly access and query the normalized dataset. They can delve into the intricacies of the data to derive specific insights that inform targeted interventions.
 
-Managers / C-Suite Audience: For those at the managerial and executive levels, the project provides a high-level overview through interactive visualizations. This approach ensures that even individuals without a technical background can grasp the findings easily, enabling them to make informed decisions for policy formulation and resource allocation.
+2. Managers / C-Suite Audience: For those at the managerial and executive levels, the project provides a high-level overview through interactive visualizations. This approach ensures that even individuals without a technical background can grasp the findings easily, enabling them to make informed decisions for policy formulation and resource allocation.
 
 By combining the power of normalized relational databases with intuitive visualizations on Metabase, the project aims to be a catalyst in the ongoing efforts to create safer communities, demonstrating how data-driven insights can drive positive societal changes.
+
+<img src="images/crime_data_3NF.png"/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQUjgzA4okA?si=JLHUbxQ4Zj-qtArx" frameborder="0" allowfullscreen></iframe>
 
