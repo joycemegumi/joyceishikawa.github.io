@@ -4,6 +4,25 @@ layout: default
 
 ## Portfolio of Projects
 ---
+### Incentivizing CitiBike Angels to Rebalance Bikes in NYC
+#### Optimizing CitiBike Angel Routes for Longer Distances with Tableau
+![Tableau Badge](https://img.shields.io/badge/-Tableau-336791?logo=Tableau&logoColor=white)
+
+CitiBike, a popular bike-sharing program in NYC, relies on the support of Bike Angels - dedicated users who contribute to the system's efficiency by rebalancing bikes across locations. However, the current system faces challenges, primarily optimizing for short-distance rebalancing jobs, which may not align with the preferences of Bike Angels seeking more rewarding experiences.
+
+Problem Statement:
+The existing CitiBike app prioritizes short-distance rebalancing (Trip Chaining), leading to less appealed Bike Angels.
+Short-distance incentives do not motivate Bike Angels to engage in larger-scale rebalancing efforts.
+There's a lack of a planning mechanism for Bike Angels to undertake longer distance rebalancing trips.
+
+Solution:
+We created a data visualization on Tableau to provide the following outcomes:
+1. Provide users with historical information on the usage trends of CitiBike riders to visualize "hotspots", peak times when bikes are required at specific locations
+2. Display the density of empty CitiBike docks, so Angel riders can also use this information to rebalance bikes
+
+[Read more about the project here](pdf/Citibike_AngelMapper.pdf)
+[View the dashboard on Tableau Reader](files/citibike_angels.twbx)
+
 ### Unveiling Insights for Safer Communities
 #### Database Normalization and Metabase Visualization 
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Metabase Badge](https://img.shields.io/badge/-Metabase-336791?logo=metabase&logoColor=white)
