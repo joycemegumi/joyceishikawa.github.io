@@ -21,6 +21,7 @@ We created a data visualization on Tableau to provide the following outcomes:
 2. Display the density of empty CitiBike docks, so Angel riders can also use this information to rebalance bikes
 
 [Read more about the project here](pdf/Citibike_AngelMapper.pdf)
+
 [View the dashboard on Tableau Reader](files/citibike_angels.twbx)
 
 ### Unveiling Insights for Safer Communities
